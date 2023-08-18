@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "A shader pack that optimizes chunk loading once applied. §4Requires patched apk",
+        "name": "§l§bChunk Optimization",
+        "uuid": "fc3b65b8-2175-4d87-8ccd-93e550ee8bb0",
+        "version": [1, 0, 0],
+        "min_engine_version": [ 1, 20, 0 ]
+    },
+    "modules": [
+        {
+            "description": "§l§adependencies for the shader pack",
+            "type": "resources",
+            "uuid": "6e5002bd-ca79-4c45-904e-81aa55366d30",
+            "version": [1, 0, 0]
+        }
+    ],
+}
